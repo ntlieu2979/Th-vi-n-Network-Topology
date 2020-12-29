@@ -23,7 +23,7 @@ Gồm tối thiểu 3 thành phần chính:
 - Xóa:
 # Tài Liệu Tham Khảo
 # Ý Kiến Đóng Góp
-Mọi ý kiến đóng góp xin vui lòng comment hoặc ghi trực tiếp tại đây.Trân trọng!
+Mọi ý kiến đóng góp xin vui lòng ghi trực tiếp tại đây.Trân trọng!
 
 
 
