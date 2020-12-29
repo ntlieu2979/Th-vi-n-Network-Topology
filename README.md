@@ -4,9 +4,9 @@
 - Cấu trúc liên kết mạng đề cập đến cách thức mà các liên kết và nodes của một mạng được sắp xếp để hoạt động với nhau.
 ## 2. Thành Phần Network Topology
 Gồm tối thiểu 3 thành phần chính:
-- Network (thể hiện mặc định: hình đám mây)
-- Router (thể hiện mặc định: hình )
-- Máy ảo
+- Network (thể hiện mặc định: icon Đám mây)
+- Router (thể hiện mặc định: hình 4 mũi tên)
+- Máy ảo (thể hiện mặc định: icon Laptop
 # Demo
 - Hình Ảnh:
 - Link Demo: 
@@ -23,7 +23,7 @@ Gồm tối thiểu 3 thành phần chính:
 - Xóa:
 # Tài Liệu Tham Khảo
 # Ý Kiến Đóng Góp
-mọi ý kiến đóng góp xin vui lòng comment hoặc ghi trực tiếp tại đây.Trân trọng!
+Mọi ý kiến đóng góp xin vui lòng comment hoặc ghi trực tiếp tại đây.Trân trọng!
 
 
 
