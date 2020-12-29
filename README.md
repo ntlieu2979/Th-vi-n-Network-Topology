@@ -7,22 +7,22 @@ Gồm tối thiểu 3 thành phần chính:
 - Network (thể hiện mặc định: icon Đám mây)
 - Router (thể hiện mặc định: hình 4 mũi tên)
 - Máy ảo (thể hiện mặc định: icon Laptop
-# Demo
+## 3. Demo
 - Hình Ảnh:
 - Link Demo: 
-# Các Tệp Cần Thêm
-## index.html
-## Style.js
-## ...
-# Các Bước Sử Dụng
-# Thao Tác Tay
-## 1. Thư Viện javaScript :
-## 2. Thao Tác
+## 4. Các Tệp Cần Thêm
+### index.html
+### Style.js
+### ...
+## 5.  Các Bước Sử Dụng
+## 6. Thao Tác Tay
 - Thêm:
 - Sửa:
 - Xóa:
-# Tài Liệu Tham Khảo
-# Ý Kiến Đóng Góp
+## 7. Tài Liệu Tham Khảo
+### 1. Thư Viện javaScript :
+### 2. Thao Tác
+## 8. Ý Kiến Đóng Góp
 Mọi ý kiến đóng góp xin vui lòng ghi trực tiếp tại đây.Trân trọng!
 
 
